@@ -1,6 +1,6 @@
 # “Hello World!” app with Node.js and Express :rocket:
 
-<p align="center"><img width="60%" src="images/node.png" /></p>
+<p align="center"><img width="40%" src="images/node.png" /></p>
 
 ## What is Node.js?
 
