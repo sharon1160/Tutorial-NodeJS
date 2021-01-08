@@ -67,9 +67,18 @@ var app = express();app.get('/', function (req, res) {
 ```
 ## Run the app
 
+We run the following command,
+
 ```bash
 $ node index.js
 ```
+or also ...
+
+```bash
+$ npm run start
+```
+<p align="center"><img width="60%" src="images/command.png" /></p>
+
 After running the command, load http://localhost:3000/ in a browser to see the output.
 
 <p align="center"><img width="60%" src="images/app.png" /></p>
