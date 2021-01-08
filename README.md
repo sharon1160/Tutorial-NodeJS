@@ -23,6 +23,33 @@ $ npm init
 ```bash
 $ npm install express --save
 ```
+After installation, in our package.json it would look like this
+
+```javascript
+{
+  "name": "tutorial-nodejs",
+  "version": "1.0.0",
+  "description": "## What is Node.js?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharon1160/Tutorial-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharon1160/Tutorial-NodeJS/issues"
+  },
+  "homepage": "https://github.com/sharon1160/Tutorial-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
+```
+
 ## Create a file named index.js
 
 ```javascript
